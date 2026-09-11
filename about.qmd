@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About this site
+## Background
+Jing is originally from China but has been living in Vancouver for the past ten years since her bachelor degree in SFU, majored in Computing Science and minored in Mathematics. Having been working as a Business/Research/Marketing Analyst in several industries for the past five years and now back to UBC for the Master of Data Science program. 
+
+## Why Data Science
+Having been interested in math since a child, I enjoy dealing with numbers and have great passion in technology. With experiencing the technical fields from different industries, I decided to study further in data science and understand better about the AI techs.
+
+## Outside of Data Science
+I would say travel is a part of my life. Having been to around 15 countries and had chance to work in tourism industry, made me a person who enjoys exploring, challenging and having fun. Curious about almost anything and 200% as a foodie.

@@ -1,13 +1,17 @@
 project:
   type: website
+  output-dir: doc
 
 website:
-  title: "DSCI_511_Milestone"
+  title: "Jing Tao"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
